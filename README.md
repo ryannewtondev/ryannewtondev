@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=scaleIn)
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A frontend developer from the U.K</h3>
 
